@@ -1,0 +1,28 @@
+{
+  "name": "rn_websocket",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "aes": "^0.1.0",
+    "antd-mobile-rn": "^2.2.0",
+    "axios": "^0.18.0",
+    "crypto-js": "^3.1.9-1",
+    "md5": "^2.2.1",
+    "react": "16.3.1",
+    "react-native": "0.55.4",
+    "websocket": "^1.0.26"
+  },
+  "devDependencies": {
+    "babel-jest": "23.2.0",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "23.2.0",
+    "react-test-renderer": "16.3.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

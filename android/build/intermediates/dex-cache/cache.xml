@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_273da2ba53aedc2691b5c6c4485ebe7b12b6e634.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_e4f4fa230ff9148ef9b40e0e0695e18008dab808.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_c75ed5a6a2758529c489a439b8ea0eb6f8e4f1d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_db7a563ea8e91f1377f0716f23cd327059dd69c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_c64325f78a24c085b700c554244dc03fa6bc6a89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_0ea5209902ea96d95d6561e891859d3c099475dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_239a2004f2ba665cfe3a814e06b08551517045ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_b1e5f1241629e148db80ef9022d92c29943183e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_a971f67c50848f35eab062a5cec0856f32aa537b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_44bc1d9fe70a6f2bdd45bcca7567646b4f5db314.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_6bd3aed5959e5f477353aa86cb64e0501d5e2ff6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_247b660d9d3b4213d25296cb8e8bb61edd2a90a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_0775a9a7874ccf83778bd6df7600c9ed80b3c07e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_86e708d1856ab185e3bc48525bbe81be046d7456.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_a4d11cdc83b99373d9b8f59044c8ad65ea6b5f99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_1193f456363b16994480a5861927a880343cce74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_f63c7ab08dbed3c34e0fe0b9b1a691240ffa1bb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_0283216b9bf7dad1d31c87f4be8f1ed4e4500cc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_18e214259252808f7deec5e645ca20b92ac65b4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_1efc6a5eb9346389ba0de2f5ee10a5fa311da347.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="F:\AppList\RN_websocket\rn_websocket\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_9f97054d3bf6d6e991ec0aeecfa255fa76a93bf4.jar" />
+    </item>
+
+</items>
